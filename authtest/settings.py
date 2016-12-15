@@ -50,7 +50,7 @@ MIDDLEWARE_CLASSES = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'login.urls'
+ROOT_URLCONF = 'authtest.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'login.wsgi.application'
+WSGI_APPLICATION = 'authtest.wsgi.application'
 
 
 # Database
