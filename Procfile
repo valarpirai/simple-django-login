@@ -1,0 +1,1 @@
+web: gunicorn simple-django-login.wsgi --log-file -
