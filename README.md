@@ -1,5 +1,7 @@
 ## What's this repository about?
 
+Forked from https://github.com/sibtc/simple-django-login.git
+
 Example created for the blog post [How to Use Django's Built-in Login System][blog-post] at [simpleisbetterthancomplex.com][blog].
 
 
@@ -7,7 +9,7 @@ Example created for the blog post [How to Use Django's Built-in Login System][bl
 
 ### 1. Clone the repository:
 
-    git clone https://github.com/sibtc/simple-django-login.git
+    git clone https://github.com/valarpirai/simple-django-login.git
 
 ### 2. Run migrations:
 
